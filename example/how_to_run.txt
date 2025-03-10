@@ -1,0 +1,8 @@
+These instructions are for Windows OS.
+
+1) Make sure you have Microsoft Visual Studio with C++ compiler installed.
+2) Make sure you have "eigen-3.4.0" in your main directory.
+3) Launch Developer Command Prompt and execute below:
+    cl /I "C:\Users\Kumar Anurag\Documents\ka_work\MIT_Multicopter_Dynamics_Simulation_for_RCplusUKF\eigen-3.4.0" test.cpp
+4) Now, run:
+    test.exe
