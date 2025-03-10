@@ -1,0 +1,2 @@
+# MIT_Multicopter_Dynamics_Simulation_for_RCplusUKF
+Simulation of multicopter dynamics and IMU measurement
